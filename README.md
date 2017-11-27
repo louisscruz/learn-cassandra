@@ -15,9 +15,11 @@ These are my notes in learning Cassandra.
 * [Partitions]
 * [Clustering Columns]
 * [Drivers]
+* [Node]
 
 [Installing Cassandra]: ./sections/foundations/install.md
 [Introduction to CQL]: ./sections/foundations/cql.md
 [Partitions]: ./sections/foundations/partitions.md
 [Clustering Columns]: ./sections/foundations/clustering-columns.md
 [Drivers]: ./sections/foundations/drivers.md
+[Node]: ./sections/foundations/node.md
