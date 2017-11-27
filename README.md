@@ -20,6 +20,7 @@ These are my notes in learning Cassandra.
 * [Peer to Peer]
 * [Vnodes]
 * [Gossip]
+* [Snitch]
 
 [Installing Cassandra]: ./sections/foundations/install.md
 [Introduction to CQL]: ./sections/foundations/cql.md
@@ -31,3 +32,4 @@ These are my notes in learning Cassandra.
 [Peer to Peer]: ./sections/foundations/peer-to-peer.md
 [Vnodes]: ./sections/foundations/vnodes.md
 [Gossip]: ./sections/foundations/gossip.md
+[Snitch]: ./sections/foundations/snitch.md
