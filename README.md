@@ -18,6 +18,8 @@ These are my notes in learning Cassandra.
 * [Node]
 * [Ring]
 * [Peer to Peer]
+* [Vnodes]
+* [Gossip]
 
 [Installing Cassandra]: ./sections/foundations/install.md
 [Introduction to CQL]: ./sections/foundations/cql.md
@@ -27,3 +29,5 @@ These are my notes in learning Cassandra.
 [Node]: ./sections/foundations/node.md
 [Ring]: ./sections/foundations/ring.md
 [Peer to Peer]: ./sections/foundations/peer-to-peer.md
+[Vnodes]: ./sections/foundations/vnodes.md
+[Gossip]: ./sections/foundations/gossip.md
