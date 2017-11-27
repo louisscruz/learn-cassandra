@@ -17,6 +17,7 @@ These are my notes in learning Cassandra.
 * [Drivers]
 * [Node]
 * [Ring]
+* [Peer to Peer]
 
 [Installing Cassandra]: ./sections/foundations/install.md
 [Introduction to CQL]: ./sections/foundations/cql.md
@@ -25,3 +26,4 @@ These are my notes in learning Cassandra.
 [Drivers]: ./sections/foundations/drivers.md
 [Node]: ./sections/foundations/node.md
 [Ring]: ./sections/foundations/ring.md
+[Peer to Peer]: ./sections/foundations/peer-to-peer.md
