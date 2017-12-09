@@ -24,6 +24,7 @@ These are my notes in learning Cassandra.
 * [Replication]
 * [Consistency]
 * [Hinted Handoff]
+* [Write-Path]
 
 [Installing Cassandra]: ./sections/foundations/install.md
 [Introduction to CQL]: ./sections/foundations/cql.md
@@ -38,4 +39,6 @@ These are my notes in learning Cassandra.
 [Snitch]: ./sections/foundations/snitch.md
 [Replications]: ./sections/foundations/replication.md
 [Consistency]: ./sections/foundations/consistency.md
-[Hinted Handoff]: ./sections/foundation/hinted-handoff.md
+[Hinted Handoff]: ./sections/foundations/hinted-handoff.md
+[Read Repair]: ./sections/foundations/read-repair.md
+[Write-Path]: ./sections/foundations/write-path.md
