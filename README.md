@@ -21,6 +21,9 @@ These are my notes in learning Cassandra.
 * [Vnodes]
 * [Gossip]
 * [Snitch]
+* [Replication]
+* [Consistency]
+* [Hinted Handoff]
 
 [Installing Cassandra]: ./sections/foundations/install.md
 [Introduction to CQL]: ./sections/foundations/cql.md
@@ -33,3 +36,6 @@ These are my notes in learning Cassandra.
 [Vnodes]: ./sections/foundations/vnodes.md
 [Gossip]: ./sections/foundations/gossip.md
 [Snitch]: ./sections/foundations/snitch.md
+[Replications]: ./sections/foundations/replication.md
+[Consistency]: ./sections/foundations/consistency.md
+[Hinted Handoff]: ./sections/foundation/hinted-handoff.md
