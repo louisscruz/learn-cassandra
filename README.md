@@ -25,6 +25,7 @@ These are my notes in learning Cassandra.
 * [Consistency]
 * [Hinted Handoff]
 * [Write-Path]
+* [Read-Path]
 
 [Installing Cassandra]: ./sections/foundations/install.md
 [Introduction to CQL]: ./sections/foundations/cql.md
@@ -42,3 +43,4 @@ These are my notes in learning Cassandra.
 [Hinted Handoff]: ./sections/foundations/hinted-handoff.md
 [Read Repair]: ./sections/foundations/read-repair.md
 [Write-Path]: ./sections/foundations/write-path.md
+[Read-Path]: ./sections/foundations/read-path.md
